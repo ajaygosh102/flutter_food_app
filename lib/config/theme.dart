@@ -96,7 +96,7 @@ class AppTheme {
             //body 1
             bodyText1: GoogleFonts.poppins(
                 color: Colors.black,
-                fontSize: 16,
+                fontSize: 18,
                 letterSpacing: 0.5,
                 fontWeight: FontWeight.normal),
             //body 2

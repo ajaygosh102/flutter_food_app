@@ -1,1 +1,1 @@
-import 'home_data_model.dart';class GlobalData {  static HomeDataModel homeDataModel;}
+import 'home_data_model.dart';class GlobalData {  static HomeDataModel homeDataModel;  static List<CategoryDish> cartItems = [];}
