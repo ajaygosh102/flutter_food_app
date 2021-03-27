@@ -19,8 +19,8 @@ class MyApp extends StatelessWidget {
       title: 'Flutter App',
       theme: AppTheme.of(context),
       navigatorKey: StackedService.navigatorKey,
-      initialRoute: router.Routes.splashScreen,
-      onGenerateRoute: router.Router().onGenerateRoute,
+     initialRoute: router.Routes.splashScreen,
+     onGenerateRoute: router.Router().onGenerateRoute,
     );
   }
 }

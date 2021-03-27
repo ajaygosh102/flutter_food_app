@@ -37,11 +37,13 @@ dependencies:
   injectable: ^1.0.5
   # http client
   http:
-  # state management
+# state management
   flutter_bloc:
   equatable:
 #    toast
   fluttertoast:
+#    firebase auth
+  firebase_auth:
 
 dev_dependencies:
   flutter_test:

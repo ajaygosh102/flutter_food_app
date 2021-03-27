@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125468221587",
+    "project_id": "auth-test-2cbd6",
+    "storage_bucket": "auth-test-2cbd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125468221587:android:06f84ba1eff9d22de9ad66",
+        "android_client_info": {
+          "package_name": "com.ajay.flutter_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125468221587-visri4goh6i12fk8ckkt1hmqb1t85i35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIaYQtw6ycBOyJiWFzGA6Q9BGd9bgrNi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125468221587-visri4goh6i12fk8ckkt1hmqb1t85i35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
